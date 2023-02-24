@@ -1,0 +1,34 @@
+body {
+	font-family: 'Open Sans', sans-serif;
+	background-color: #DEF8F9;
+}
+
+p {
+color:#8CB3FA;
+line-height
+text-align:left;
+font-size:30px;
+}
+
+h1 {color: royalblue; font-size: 50px; font-weight: bold;}
+
+h2 {color: darkgreen; font-weight: bold;}
+
+.darkbluehead {color: navyblue;}
+
+
+.headerbar {
+width: 100%;
+background-color:#345898;
+color: #fff;
+padding: 20px 0 20px 50px;
+font-size: 30px;
+}
+
+.headbar2 {
+width:100%;
+background-color: #2C54E2 ;
+color:#fff;
+padding: 15px 0 15px 35px;
+font-size:20px;
+}
