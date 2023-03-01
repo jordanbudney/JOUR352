@@ -10,9 +10,9 @@ text-align:left;
 font-size:30px;
 }
 
-h1 {color: royalblue; font-size: 50px; font-weight: bold;}
+h1 {color: #00003f; font-size: 50px; font-weight: bold;}
 
-h2 {color: darkgreen; font-weight: bold;}
+h2 {color: darkgreen; font-weight: bold; width: 70%; }
 
 .darkbluehead {color: navyblue;}
 
@@ -26,9 +26,10 @@ font-size: 30px;
 }
 
 .headbar2 {
-width:100%;
+width:70%;
 background-color: #2C54E2 ;
 color:#fff;
-padding: 15px 0 15px 35px;
+padding: 10px 0 10px 55px;
+padding padding-right: 10px;
 font-size:20px;
 }
